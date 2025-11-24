@@ -9,3 +9,4 @@
 
 # Ignore all JSON files (Data)
 *.json
+.DS_Store
