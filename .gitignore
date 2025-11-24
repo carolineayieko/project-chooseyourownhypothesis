@@ -1,0 +1,11 @@
+# --- My Custom Ignores ---
+
+# Ignore all CSV files (Data)
+*.csv
+
+# Ignore all Excel files
+*.xlsx
+*.xls
+
+# Ignore all JSON files (Data)
+*.json
